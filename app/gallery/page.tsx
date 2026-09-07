@@ -10,6 +10,7 @@ export default function GalleryPage() {
     src: string;
     title: string;
     category: string;
+    description?: string;
   } | null>(null);
   const sectionRef = useRef(null);
 
