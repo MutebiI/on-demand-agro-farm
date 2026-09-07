@@ -33,7 +33,7 @@ export default function Home() {
   const slides = [
     {
       image: "/images/farmer-1.jpg",
-      title: "Start Smalls and Grow Big",
+      title: "Start Small and Grow Big",
       subtitle: "Empowering farmers through modern, sustainable farming practices.",
     },
     {
